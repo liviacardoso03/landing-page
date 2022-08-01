@@ -94,5 +94,5 @@ function Home() {
     </Base>
   );
 }
-console.log('ha');
+console.log('ham');
 export default Home;
