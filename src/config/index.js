@@ -1,5 +1,5 @@
 export default {
-  url: 'http://localhost:1337/pages/?slug=',
+  url: 'https://raw.githubusercontent.com/luizomf/strapi_landing_pages/master/public/DADOS/dados.json',
   siteName: 'Lívia Cardoso',
   defaultSlug: 'landing-page',
 };
